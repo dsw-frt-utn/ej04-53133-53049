@@ -1,2 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/39DJV9ho)
-
+Desarrollo de Software
+Ejercicio Nro 4
+Integrantes:   Legajo: 53133  Bugeau        Nombre: Valentina     GitHub: Valenbugeau (valebugeau2003@gmail.com)
+               Legajo: 53049  Quinteros     Nombre: Nicolas       GitHub: nicoquinteros23 (nicoquinteros.nq@gmail.com)
+               Legajo: 53324  Messina       Nombre: Florencia     GitHub: flormessina(messinaflor05@gmail.com)
